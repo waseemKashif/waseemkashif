@@ -15,12 +15,10 @@ I'm Waseem Kashif a Senior Software Engineer from Hunza Valley in Northern Pakis
 #### 🧰 Frameworks and libraries
 
 <p >
-  <a href="#"><img alt="sveltekit" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" height="24"></a>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" height="24"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" height="24"></a>
     <a href="#"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495e.svg?logo=vue.js&logoColor=%234FC08D" height="24"></a>
-    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white" height="24"></a>
-    <a href="#"><img alt="NestJS" src="https://img.shields.io/badge/Laravel-E0234E.svg?logo=laravel&logoColor=white" height="24"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" height="24"></a>
     <a href="#"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098.svg?logo=graphql&logoColor=white" height="24"></a>
 </p>
 
@@ -29,11 +27,11 @@ I'm Waseem Kashif a Senior Software Engineer from Hunza Valley in Northern Pakis
 #### 🗄️ Databases and cloud hosting
 
 <p>
-    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24"></a>
+    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
     <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify-010101.svg?logo=netlify&logoColor=white" height="24"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white" height="24"></a>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white" height="24"></a>
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" height="24"></a>
 </p>
 
 #### 💻 Software and tools
