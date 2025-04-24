@@ -1,6 +1,6 @@
 ### Intro 👋
 
-I'm Waseem Kashif a Senior Software Engineer from Hunza Valley in Northern Pakistan. Currently staying in Qatar. I've been in Software Development for the last 6+ years and I have extensive knowledg of Javascript libraries. I have 5+ years of experience in React, 2+ years of experience with Laravel, 4+ years in React js and Next Js including Sveltekit. I spend my last 6 years of full-time learning and working on different technologies
+I'm Waseem Kashif a Senior Software Engineer from Hunza Valley in Northern Pakistan. Currently staying in Qatar. I've been in Software Development for the last 6+ years and I have extensive knowledg of Javascript libraries.I also do have 2+ years of experience with Laravel, 4+ years in React js and Next Js including Sveltekit. I spend my last 6 years of full-time learning and working on different technologies
 
 #### 👨‍💻 Programming and markup languages
 
